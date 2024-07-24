@@ -1,0 +1,45 @@
+.logo{
+    width: 30%;
+    height: 50%;
+    object-fit: contain;
+}
+.alto{
+    height: 60%;
+}
+.fondo{
+    background-image: 
+    linear-gradient(rgb(247, 239, 241),
+    rgb(245, 61, 144));
+    
+}
+.h_footer{
+    min-height: 10vh;
+}
+
+.heitght{
+    min-height: 15vh;
+}
+.heitght_main{
+    min-height: 70vh;
+}
+
+main{
+    min-height: 75vh;
+}
+.color_text{
+    color: rgb(255, 20, 147);
+}
+.vh{
+    height: 50vh;
+}
+.width_18rem{
+    width: 18rem;
+}
+.social{
+    width: 4rem;
+    height: 3rem;
+    object-fit: contain;
+}
+tr{
+    height: 4vh;
+}
